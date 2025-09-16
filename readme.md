@@ -22,3 +22,10 @@ Revenue Trends: Monthly/Yearly income flow.
 Expense Analysis: Key cost drivers.
 Regional Performance: Which locations generated the most revenue vs. which incurred losses.
 The final dashboard simplifies financial assessment, allowing stakeholders to make data-driven decisions efficiently.
+
+# Screenshots
+![image](/assets/screenshots/ss_1.png)
+![image](/assets/screenshots/ss_2.png)
+![image](/assets/screenshots/ss_3.png)
+![image](/assets/screenshots/ss_4.png)
+
